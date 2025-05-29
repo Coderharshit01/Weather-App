@@ -1,1 +1,18 @@
-Simple Weather App and Forecast using React, Tailwind and openWeatherAPI
+# 🌤️ Weather App
+
+A simple and responsive weather forecast app built using:
+
+- ⚛️ React
+- 💨 Tailwind CSS
+- ☁️ OpenWeather API
+
+## 🚀 Features
+- Current weather by city
+- 5-day forecast
+- Responsive UI
+
+## 🔧 Getting Started
+
+```bash
+npm install
+npm run dev
